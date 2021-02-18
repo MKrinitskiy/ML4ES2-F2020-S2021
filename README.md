@@ -12,8 +12,8 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
-|  |  | I семестр |  |
-| Лекция 0 | 22.09.2020 | Вводная лекция. Машинное обучение в науках о Земле. |  |
+|       |      | II семестр |    |
+| ДЗ №2.1 | 19.02.2021<br />deadline: 03.03.2021 | автокодировщики для идентификации аномалий | [Описание ДЗ]()<br />[Данные с выбросами](https://www.dropbox.com/s/r7mgjn83y9ygpzq/mnist_corrupted.npz?dl=0) |
 
 
 ### Рекомендуемая литература
