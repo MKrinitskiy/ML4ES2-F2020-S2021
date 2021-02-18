@@ -13,7 +13,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |       |      | II семестр |    |
-| ДЗ №2.1 | 19.02.2021<br />deadline: 03.03.2021 | автокодировщики для идентификации аномалий | [Описание ДЗ]()<br />[Данные с выбросами](https://www.dropbox.com/s/r7mgjn83y9ygpzq/mnist_corrupted.npz?dl=0) |
+| ДЗ №2.1 | 19.02.2021<br />deadline: 03.03.2021 | автокодировщики для идентификации аномалий | [Описание ДЗ](https://github.com/MKrinitskiy/ML4ES2-F2020-S2021/tree/master/HW2.1)<br />[Данные с выбросами](https://www.dropbox.com/s/r7mgjn83y9ygpzq/mnist_corrupted.npz?dl=0) |
 
 
 ### Рекомендуемая литература
