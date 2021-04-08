@@ -14,6 +14,7 @@ Machine learning for Earth Sciences F2020-S2021 by [Mikhail Krinitskiy](https://
 | ----- | ---- | ----- | ------- |
 |       |      | II семестр |    |
 | ДЗ №2.1 | 19.02.2021<br />deadline: 03.03.2021 | автокодировщики для идентификации аномалий | [Описание ДЗ](https://github.com/MKrinitskiy/ML4ES2-F2020-S2021/tree/master/HW2.1)<br />[Данные с выбросами](https://www.dropbox.com/s/r7mgjn83y9ygpzq/mnist_corrupted.npz?dl=0) |
+| ДЗ №2.2 | 07.04.2021<br />deadline: 07.05.2021 | WGAN-GP в задаче идентификации аномалий в геофизических данных | [Описание ДЗ, рамочный ноутбук](https://github.com/MKrinitskiy/ML4ES2-F2020-S2021/tree/master/HW2.2)<br />[видеозапись обсуждения ДЗ](https://bit.ly/31WQCDW) |
 
 
 ### Рекомендуемая литература
